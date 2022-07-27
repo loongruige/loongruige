@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**xpazr58/xpazr58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [xpazr58/bazeb00rd](https://github.com/xpazr58/bazeb00rd)
+- 🌱 I’m currently learning Python <3
+- 🤔 I’m looking for help with Python <3
+- 💬 Ask me about Nintendo
+- 📫 How to reach me: xpazr@yaani.com / @e.timur.trn at Instagram
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: what's a fun
 
-Here are some ideas to get you started:
+## GitHub stats
+![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpazr58&langs_count=5)]
+![stats](https://github-readme-stats.vercel.app/api?username=xpazr58&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
