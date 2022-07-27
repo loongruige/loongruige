@@ -9,6 +9,6 @@
 - ⚡ Fun fact: what's a fun
 
 ## GitHub stats
-![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpazr58&langs_count=5)]
+![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpazr58&langs_count=5&theme=radical)
 ![stats](https://github-readme-stats.vercel.app/api?username=xpazr58&show_icons=true&theme=radical)
 
