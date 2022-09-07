@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python <3
 - 🤔 I’m looking for help with Python <3
 - 💬 Ask me about Nintendo
-- 📫 How to reach me: xpazr@yaani.com / @e.timur.trn at Instagram
+- 📫 How to reach me: xpazr@yaani.com / skyraver#5858
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: what's a fun
 
