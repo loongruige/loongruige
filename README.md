@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [xpazr58/bazeb00rd](https://github.com/xpazr58/bazeb00rd)
-- 🌱 I’m currently learning Python <3
-- 🤔 I’m looking for help with Python <3
+- 🌱 I’m currently learning Cerberus X
+- 🤔 I’m looking for help with Kotlin
 - 💬 Ask me about Nintendo
-- 📫 How to reach me: xpazr@yaani.com / skyraver#5858
+- 📫 How to reach me: xpazr@yaani.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: what's a fun
+- ⚡ Fun fact: I love goats
 
 ## GitHub stats
 ![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpazr58&langs_count=5&theme=radical)
