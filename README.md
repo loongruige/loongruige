@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [xpazr58/bazeb00rd](https://github.com/xpazr58/bazeb00rd)
-- 🌱 I’m currently learning Cerberus X
-- 🤔 I’m looking for help with Kotlin
+- 🔭 I’m currently working on [xpazr58/wiiu-rpc](https://github.com/xpazr58/wiiu-rpc)
+- 🌱 I’m currently learning C++
+- 🤔 I’m looking for help with Cerberus X
 - 💬 Ask me about Nintendo
 - 📫 How to reach me: xpazr@yaani.com
 - 😄 Pronouns: He/Him
