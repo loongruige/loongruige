@@ -8,4 +8,6 @@
 
 ## Current projects
 - Hayat Çadıra Sığar [Kotlin & Python, Flask] [Android]
+- GM Müzik v3.0 [Kotlin] [Android]
+- GM Pods [Kotlin] [Android]
 
