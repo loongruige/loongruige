@@ -4,7 +4,9 @@
 
 ### TB - Device maintainer
 - general/G514 (General Mobile GM 24 Pro)
-- general/GM8_d_sprout (General Mobile GM 8 d)
+- gm/GM8_d (General Mobile GM 8 d)
+- gm/GM8 (General Mobile GM 8)
+- gm/G008 (General Mobile GM 9 GO)
 
 ## Current projects
 - Hayat Çadıra Sığar [Kotlin & Python, Flask] [Android]
