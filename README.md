@@ -1,13 +1,11 @@
-### TB - Device maintainer
-- general/G512 (General Mobile GM 22 Plus)
-- general/G514 (General Mobile GM 24 Pro)
-- gm/GM8_d (General Mobile GM 8 d)
-- gm/GM8 (General Mobile GM 8)
-- gm/G008 (General Mobile GM 9 GO)
+### Hello :wave:
+I'm a student with *some* interest in software.
 
 ## Current projects
-- [nerose.click](https://nerose.click)
-- Hayat Çadıra Sığar [Kotlin & Python, Flask] [Android]
-- GM Müzik v3.0 [Kotlin] [Android]
-- GM Pods [Kotlin] [Android]
+- eokul [Python] (Backend)
+- WATCH_DOGS Save sync [Python] (Windows)
+- Musepal [Kotlin, Python] (Android)
+
+## Finished projects
+- Hayat Çadıra Sığar [Kotlin, Python] (Android, Web)
 
